@@ -8,7 +8,17 @@ public class Main {
         System.out.println(aritmeetiliseKeskmiseLeidmine2(10,9,7));
 
         double[] sisend = {3,4,5,6};
+        //arrays tuleb importida
+        // List<Double> sisend = new ArrayList(Arrays.asList(3,4,5,6));  vaja importida list, arrayList JA Arrays
         System.out.println(Arrays.toString(libisevKeskmine(sisend)));
+
+        //libisevkeskine liidab algusest kolm arvu ning leiab nende keskmise,
+        // järgmisena liigub ta ühe sammu edasi ja liidab need kolm arvu ja leiab keskmise jne..
+        LibisevKeskmine libisev = new LibisevKeskmine(2,3,4);
+        libisev.lisaArv(5);
+        libisev.lisaArv(6);
+        libisev.lisaArv(7);
+        System.out.println(libisev.arvudKeskmisega);
     }
 
     //1 võimalus

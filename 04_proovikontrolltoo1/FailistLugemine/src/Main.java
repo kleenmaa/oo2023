@@ -16,9 +16,9 @@ public class Main {
             String[] tykeldus = rida.split("u"); //u koha pealt tükeldab
             System.out.println(Arrays.toString(tykeldus));
             System.out.println(Arrays.toString(new int[]{tykeldus.length})); //listi korral .size
-            double ruut = Math.pow(tykeldus.length, 2);
+            double ruut = Math.pow(tykeldus.length, 2); //ruutu/kuupi jne võtmine, arv lõpus näitab millega astendad
             System.out.println(ruut);
-            double ruutjuur = Math.sqrt(tykeldus.length);
+            double ruutjuur = Math.sqrt(tykeldus.length); //ruutjuur
             System.out.println(ruutjuur);
             rida = br.readLine();
         }
