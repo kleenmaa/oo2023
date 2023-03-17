@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2a03c8c-4637-481b-b989-79c4dcb0ebc0" name="Changes" comment="" />
+    <list default="true" id="06baec2f-7fdd-4196-b483-0b165004b634" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +16,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2MpBi6UYWG0Lt0jZriKj5WcDRmC" />
+  <component name="ProjectId" id="2N8whjIUS4c0i6Q5R0Jddn8oXgV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,23 +33,18 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a2a03c8c-4637-481b-b989-79c4dcb0ebc0" name="Changes" comment="" />
-      <created>1678454769240</created>
+      <changelist id="06baec2f-7fdd-4196-b483-0b165004b634" name="Changes" comment="" />
+      <created>1679059142994</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678454769240</updated>
-      <workItem from="1678454770390" duration="1877000" />
-      <workItem from="1678947691493" duration="713000" />
-      <workItem from="1679044105330" duration="597000" />
-      <workItem from="1679051816398" duration="3760000" />
+      <updated>1679059142994</updated>
+      <workItem from="1679059144485" duration="1331000" />
+      <workItem from="1679061002279" duration="57000" />
+      <workItem from="1679061076037" duration="19000" />
+      <workItem from="1679061108038" duration="27000" />
     </task>
     <servers />
   </component>
