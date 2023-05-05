@@ -31,6 +31,9 @@ public class Main {
         Player player = new Player(world.width, world.height);
         Dragon dragon = new Dragon(world.width, world.height);
         Orc orc = new Orc(world.width, world.height);
+        // default package mitte java.lang
+        // saatke printMap sisse hoopis character
+        List<Character> characters = new ArrayList<>(Arrays.asList(player, dragon, orc));
 
         Item sword = new Item(10, 1,"Mõõk", world.width, world.height);
         Item hammer = new Item(5, 6,"Haamer", world.width, world.height);

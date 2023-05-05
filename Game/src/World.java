@@ -49,6 +49,11 @@ public class World {
                         //System.out.print(orcSymbol);
                         symbol = orcSymbol;
                     }
+//                    for (Charater c: characters) {
+//                        if (c.xCoordinaate == x && c.yCoordinaate == y) {
+//                            symbol = c.symbol;
+//                        }
+//                    }
                     //sout ja vajutad enterit ja sisi tuleb system out print
                 }
                 System.out.print(symbol);
