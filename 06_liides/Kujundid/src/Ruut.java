@@ -5,6 +5,7 @@ public class Ruut extends Tasapinnaline implements Arvutused{
     double kylg3;
     double kylg4;
     public Ruut(int tippudeArv) {
+
         super(tippudeArv);
     }
 

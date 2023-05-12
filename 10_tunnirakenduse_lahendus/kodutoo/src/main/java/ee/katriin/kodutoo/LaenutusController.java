@@ -44,6 +44,7 @@ public class LaenutusController {
 
     @GetMapping("laenutused")
     public List<Laenutus> saaLaenutused() {
+
         return laenutused;
     }
 

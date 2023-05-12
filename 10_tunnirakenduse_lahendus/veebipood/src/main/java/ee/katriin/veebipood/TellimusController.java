@@ -130,7 +130,7 @@ public class TellimusController {
             @RequestBody Tellimus tellimus) {
 
         //tellimused.add(tellimus);
-       // return tellimused;
+       //return tellimused;
         tellimusRepository.save(tellimus);
        return tellimusRepository.findAll();
     }
